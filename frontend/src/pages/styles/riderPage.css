@@ -1,0 +1,56 @@
+.RiderPage {
+    background-color: #18181a;
+    color: #ffffff;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    
+    
+}
+
+.RiderPage table{
+    border-collapse: unset;
+    margin: none;
+    width: 80%;
+    padding: 10px;
+    padding-left: 390px;
+}
+
+.RiderPage table td:first-of-type {
+    width: 50%;
+}
+
+.RiderPage table td:last-of-type {
+    width: 50%
+}
+
+.RiderPage .TwoButtonTwoTextSubmissionContainer {
+    width: 100%;
+    margin-left: 0%;
+    color: #ffffff;
+    text-align:left;
+}
+
+.RiderPage .TwoButtonTwoTextSubmissionContainer .TwoButtonTwoTextSubmissionButtonContainer{
+    margin: 10px;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+}
+
+.RiderPage .TwoButtonTwoTextSubmissionContainer .TwoButtonTwoTextSubmissionButtonContainer button{
+    min-width: 40%;
+    margin: 10px;
+    color: #ffffff;
+}
+
+.RiderPage .TwoButtonTwoTextSubmissionContainer .TwoButtonTwoTextSubmissionButtonContainer button:first-of-type{
+    background-color: #8b52ff;
+    
+    color: white;
+}
+
+.RiderPage .TwoButtonTwoTextSubmissionContainer .TwoButtonTwoTextSubmissionButtonContainer button:last-of-type{
+    background-color: #8b52ff;
+    
+    color: white;
+}

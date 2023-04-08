@@ -1,0 +1,90 @@
+.RiderProgressPageHeader {
+    text-align: center;
+}
+
+.RiderProgressPage .jumbotron {
+    background-color:  #bdd572;
+    /*text-shadow: -1px -1px #9bc472, 1px -1px 0 #9bc472, -1px 1px 0 #9bc472, 1px 1px 0 #9bc472;*/
+    color: black;
+    background-image: url('../styles/530_generated.png');
+    background-repeat: no-repeat;
+    background-size:200px;
+}
+
+
+.RiderProgressPage .RiderDetails {
+    text-align: center;
+}
+
+.RiderProgressPage .RiderDetails .Details .DetailContainer {
+    padding: 2%;
+}
+
+.RiderProgressPage .RiderDetails .Details .DetailContainer .DetailLabel {
+    font-weight: 700;
+    font-size: large;
+    width: 100%;
+}
+
+.RiderProgressPage .spinner {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+}
+
+.RiderProgressPage .RiderProgressPageCenter {
+    text-align: center;
+    
+}
+
+.RiderProgressPage .RiderProgressPageCenter table{
+    width: 100%;
+}
+
+.RiderProgressPage .RiderProgressPageCenter button {
+    color: white;
+    background-color: #f5beb4;
+    border-color: #f5beb4;
+}
+
+.RiderProgressPage .RiderProgressPageCenter .driverArrived  button {
+    color: black;
+    background-color: red;
+    border-color: red;
+}
+
+.RiderProgressPage .progressBarContainer {
+    width: 75%;
+    margin: auto;
+    height: 2em;
+}
+
+.RiderProgressPage .summaryContainer {
+    text-align: center;
+    padding-top: 2em;
+    font-size: large;
+}
+
+.RiderProgressPage .summaryContainer{
+    padding-top: 1em;
+}
+
+.RiderProgressPage .summaryContainer, .amountPaidContainer {
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.RiderProgressPage .backToLoginButtonContainer button{
+    color: white;
+    background-color: #f5beb4;
+    border-color: #f5beb4;
+}
+
+.RiderProgressPage .cancelButtonContainer button {
+    color: white;
+    background-color: #8b52ff;
+    margin-top: 2em;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}

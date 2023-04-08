@@ -1,0 +1,82 @@
+.Header {
+    text-align:center;
+    margin-top: 100px;
+    font-weight: 100;
+    padding-bottom:10px;
+    font-size:30px;
+    
+    
+}
+
+.LandingPage .jumbotron {
+    background-color: #18181a;
+    /*text-shadow: -1px -1px 0 #ffffff, 1px -1px 0 #ffffff, -1px 1px 0 #ffffff, 1px 1px 0 ;*/
+    color:#ffffff;
+    background-image: url('../styles/DD\ logo\ 2.png');
+    background-size:420px;
+    background-position: 50%;
+    height:100%;
+    background-repeat: no-repeat;
+    padding-bottom: 10px;
+    position: relative;
+    top: -60px;
+
+}
+
+.LandingPage .AddressInputContainer {
+    background-color:#18181a ;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    width: 60%;
+    margin-left: 20%;
+    border-radius: 20px;
+    height: 450px;
+    
+    
+
+}
+
+.LandingPage .AddressInputContainer .TwoButtonTextSubmissionButtonContainer{
+    margin-top: 50px;
+    text-align: center;
+    
+}
+
+.LandingPage .AddressInputContainer .TwoButtonTextSubmissionButtonContainer button:first-of-type {
+    color: white;
+    background-color: #8b52ff;
+    border-color: #ffffff;
+    height: 200px;
+    width: 45%;
+    border-radius: 25px;
+    background-image: url('../styles/530_generated.png');
+    background-repeat: no-repeat;
+    background-size:200px;
+    background-position:0%;
+    position: relative;  
+    padding-left: 120px;   
+    font-size: 40px;
+    text-transform:uppercase;
+
+}
+.LandingPage .AddressInputContainer .TwoButtonTextSubmissionButtonContainer button:last-of-type {
+    color: white;
+    background-color: #8c52ff;
+    border-color: #ffffff;
+    height: 200px;
+    width: 45%;
+    position: relative;
+    left: 480px;
+    top: -208px;
+    border-radius: 25px;
+    background-image: url('../styles/2108.i201.035.F.m004.c9.car\ accidents\ isometric.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size:410px;
+    background-position-y: 0px;
+    background-position-x: -80px;
+    padding-left: 200px;
+    font-size: 40px;
+    text-transform:uppercase;
+}
