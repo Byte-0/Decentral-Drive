@@ -1,5 +1,6 @@
 .driverPageContainer {
-    background-color: gainsboro;
+    background-color: rgba(24, 24, 26, 0.9);
+    color: white;
 }
 
 .driverPageContainer .textBoxTableContainer {
@@ -29,7 +30,7 @@
 }
 
 .driverPageContainer .buttonWithLabelsListContainer .ButtonWithLabels td:last-of-type{
-    background-color: #9bc472;
+    background-color: #ff6652;
 }
 
 .driverPageContainer .buttonWithLabelsListContainer .ButtonWithLabels .ButtonWithLabelsButtonContainer {
@@ -42,9 +43,9 @@
 .driverPageContainer .buttonWithLabelsListContainer .ButtonWithLabels .ButtonWithLabelsButtonContainer button{
     width: 100%;
     height: 100%;
-    background-color: #9bc472;
-    border-color: #f5beb4;
+    background-color: #ff6652;
     color: white;
+    border-color:#ff6652;
 }
 
 .driverPageContainer .SingleButtonContainer {
@@ -52,10 +53,11 @@
 }
 
 .driverPageContainer .SingleButtonContainer button{
-    background-color: #9bc472;
-    border-color: #f5beb4;
+    background-color: #ff6652;
+    border-color: white;
     color: white;
-    margin-top: 1em;
+    margin-top: 10px;
+    position: relative;
 }
 
 .driverPageContainer .DriverPageJobListContainer {
@@ -70,7 +72,7 @@
 }
 
 .driverPageContainer .DriverPageJobListContainer .ListHeadings {
-    width: 100%;
+    width: 102%;
     margin-bottom: 1em;
     font-weight: 700;
     font-size: large;

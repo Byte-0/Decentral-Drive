@@ -3,7 +3,8 @@
 }
 
 .RiderProgressPage .jumbotron {
-    background-color:  #bdd572;
+    background-color:  rgba(139, 82, 255, 0.7);
+    border-color: #ffffff;;
     /*text-shadow: -1px -1px #9bc472, 1px -1px 0 #9bc472, -1px 1px 0 #9bc472, 1px 1px 0 #9bc472;*/
     color: black;
     background-image: url('../styles/530_generated.png');
@@ -83,7 +84,7 @@
 
 .RiderProgressPage .cancelButtonContainer button {
     color: white;
-    background-color: #8b52ff;
+    background-color: #18181a;
     margin-top: 2em;
     margin-bottom: 5px;
     border-radius: 10px;

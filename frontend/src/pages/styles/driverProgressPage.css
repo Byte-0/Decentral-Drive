@@ -3,9 +3,15 @@
 }
 
 .DriverProgressPage .jumbotron {
-    background-color:#9bc472;
-    text-shadow: -1px -1px 0 #f5beb4, 1px -1px 0 #f5beb4, -1px 1px #f5beb4, 1px 1px 0 #f5beb4;
+    background-color:rgba(255, 102, 82, 0.8);
+   /* text-shadow: -1px -1px 0 #f5beb4, 1px -1px 0 #f5beb4, -1px 1px #f5beb4, 1px 1px 0 #f5beb4;*/
     color: black;
+    background-image: url('../styles/2108.i201.035.F.m004.c9.car\ accidents\ isometric.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: 500px;
+    background-position-x: -80px;
+    background-position-y: -40px ;
 }
 
 .DriverProgressPage .DriverDetails {
@@ -35,8 +41,8 @@
 
 .DriverProgressPage .DriverProgressPageCenter button {
     color: white;
-    background-color: goldenrod;
-    border-color: goldenrod;
+    background-color: rgba(255, 102, 82, 0.8);
+    border-color: white;
     margin-top: 1em;
 }
 
